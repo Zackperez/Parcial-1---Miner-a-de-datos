@@ -1,0 +1,1 @@
+# Parcial-1---Miner-a-de-datos
